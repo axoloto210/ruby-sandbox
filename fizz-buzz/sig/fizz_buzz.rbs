@@ -1,0 +1,6 @@
+# TypeProf 0.30.1
+
+# lib/fizzbuzz.rb
+class Object
+  def fizz_buzz: (untyped) -> String
+end

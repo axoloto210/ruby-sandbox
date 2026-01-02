@@ -1,0 +1,4 @@
+# test/fizz_buzz_test.rb
+class FizzBuzzTest < Minitest::Test
+  def test_fizz_buzz: () -> void
+end

@@ -1,0 +1,12 @@
+---
+path: ".gem_rbs_collection"
+gems:
+- name: minitest
+  version: '5.25'
+  source:
+    type: git
+    name: ruby/gem_rbs_collection
+    revision: 57196ee070a59a2dfd64f9f91a3f974a9a5afea8
+    remote: https://github.com/ruby/gem_rbs_collection.git
+    repo_dir: gems
+gemfile_lock_path: "../Gemfile.lock"
